@@ -1,0 +1,1 @@
+PasswordManager is a secure application that allows users to store and manage their passwords, ensuring strong security and easy access to their online accounts.
